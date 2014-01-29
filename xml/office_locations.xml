@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<offices>
+
+<office>
+	<office_name>New York, NY</office_name>
+	<address_line1><![CDATA[31 Penn Plaza<br>132 West 31st Street]]> </address_line1>
+	<compfloor></compfloor>
+	<state>New York, NY</state>
+	<zip>10001</zip>
+	<country>USA</country>
+</office>
+
+<office>
+	<office_name>Toronto</office_name>
+	<address_line1><![CDATA[160 Bloor Street East <br>Suite 600]]> </address_line1>
+	<compfloor></compfloor>
+	<state>Toronto, Ontario</state>
+	<zip>M4W 0A2</zip>
+	<country>Canada</country>
+</office>
+
+<office>
+	<office_name>Austria</office_name>
+	<address_line1><![CDATA[Vordere Zollamtsstra&szlig;e <br>13&frasl;7. OG]]> </address_line1>
+	<compfloor></compfloor>
+	<state>1030 Wien - Austria</state>
+	<zip></zip>
+	<country>Austria</country>
+</office>
+
+
+
+</offices>
